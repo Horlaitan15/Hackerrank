@@ -1,5 +1,7 @@
+import math
+
 def solve(meal_cost, tip_percent, tax_percent):
-    print(meal_cost + ((tip_percent / 100) * meal_cost) + ((tax_percent / 100) * meal_cost))
+    print(math.floor(round(meal_cost + ((tip_percent / 100) * meal_cost) + ((tax_percent / 100) * meal_cost))))
 
 
 if __name__ == "__main__":
