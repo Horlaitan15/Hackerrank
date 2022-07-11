@@ -1,7 +1,0 @@
-Hi Hiring Manager,
-
-Yeah, i checked out several urls in the list to find out if I could really do the task before applying.
-
-I have checked the attached CSV file and found out that it is a list of 119,763 urls which you would like to extract the companies detail like their names, address, postal codes, email, etc.
-
-The screenshot attached shows the information of one of the urls there in the list.
